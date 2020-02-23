@@ -18,7 +18,11 @@ Benötigte Libraries für Arduino:
   - elapsedMillis - für das Updateintervall von 10min (man sollte nicht unter 4min gehen, da Tankerkönig eh nicht schneller aktualisiert)
 
 
-Ist alles noch ziemlich unsauber, aber es funktioniert für's erste. Quasi Version 0.01
+Ist alles noch ziemlich **unsauber**, aber es funktioniert für's erste. Quasi Version 0.01
+
+TODO:
+  - Code Cleanup
+  - README.md verbessern
 
 
 
